@@ -1,10 +1,10 @@
 {
-    "domain": "https://7cslot.com/",
-    "update": {
-        "apkurl": "https://dmkr6yboyii3c.cloudfront.net/h5_in_apk/mexican/apk/output/Joker-test.apk",
-        "mini_ver": "1",
-        "version_name": "1.0",
-        "version_code": "10",
-        "description": "更新说明"
-    }
+  "domain": "https://7cslot.com/",
+  "update": {
+    "apkurl": "https://dmkr6yboyii3c.cloudfront.net/h5_in_apk/mexican/apk/output/Joker-test.apk",
+    "mini_ver": "1",
+    "version_name": "1.0",
+    "version_code": "10",
+    "description": "更新说明2222"
+  }
 }
